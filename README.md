@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wxy-highlight
 - 👀 I’m interested in bioinformatics.
-- 🌱 I’m currently learning to analyze proteomics and transcriptomics data.
+- 🌱 I’m currently learning to analyze multi-omics data.
 - 💞️ I’m looking to study abroad and travel around.
 - 😸 The repository is used to store the code I have learned and coded.
 - 🤟 Music and Love!

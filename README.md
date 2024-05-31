@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wxy-highlight
+- 👋 Hi, I’m Xingyue Wang
 - 👀 I’m interested in bioinformatics and multi-omics analysis.
 - 😸 The repository stores the code I have learned and coded.
 - 💞️ I’m looking to travel around.

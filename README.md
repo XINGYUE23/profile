@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wxy-highlight
 - 👀 I’m interested in bioinformatics and multi-omics analysis.
-- 💞️ I’m looking to travel around.
 - 😸 The repository stores the code I have learned and coded.
+- 💞️ I’m looking to travel around.
 - 🤟 Music and Love!

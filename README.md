@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Xingyue Wang
+- 👋 Hi, I’m Xingyue
 - 👀 I’m interested in bioinformatics and multi-omics analysis.
 - 😸 The repository stores the code I have learned and coded.
 - 💞️ I’m looking to travel around.
